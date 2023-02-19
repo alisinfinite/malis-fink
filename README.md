@@ -16,3 +16,7 @@ Mostly working, though might still have a few unthemed bits.
 ## Making this less (or more) horrible
 
 Change the `--variables` to colors more (or less) pleasing to your eyes.
+
+## Can I use this (or a version thereof) as the main theme on my Masto server?
+
+Sure, if you want to torture your users, go ahead.
